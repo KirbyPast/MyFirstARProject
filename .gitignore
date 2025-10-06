@@ -40,6 +40,11 @@ ExportedObj/
 *.svd
 *.pdb
 *.mdb
+*.fbx
+*.mp4
+*.mov
+*.avi
+*.obj
 *.opendb
 *.VC.db
 
